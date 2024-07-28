@@ -1,7 +1,7 @@
 # Project-Files
 Pizza Sales Analysis SQL Project
 Overview
-This project focuses on analyzing pizza sales data using SQL to uncover insights about customer preferences, sales trends, and revenue distribution. The dataset used includes various aspects of pizza orders such as quantities, prices, sizes, and categories. The primary objective of this project is to perform data cleaning and analysis to derive meaningful business insights that can help optimize sales strategies and improve operational efficiency.
+This project analyzes pizza sales data using SQL to uncover insights about customer preferences, sales trends, and revenue distribution. The dataset includes various aspects of pizza orders, such as quantities, prices, sizes, and categories. The primary objective of this project is to perform data cleaning and analysis to derive meaningful business insights that can help optimize sales strategies and improve operational efficiency.
 
 Objectives
 Data Cleaning and Preparation: Import, clean, and preprocess the dataset by handling missing values and outliers to ensure the data is accurate and ready for analysis.
